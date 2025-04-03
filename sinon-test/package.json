@@ -1,0 +1,12 @@
+{
+  "name": "sinon-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "sinon": "^20.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/sinon": "^17.0.4",
+    "typescript": "^5.8.2"
+  }
+}
